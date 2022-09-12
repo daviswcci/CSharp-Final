@@ -67,7 +67,7 @@ This assignment will serve as additional review for all the content we've covere
 	- [YOUR ANSWER HERE]
 6. What operator is the 'assignment' operator?
 	- [YOUR ANSWER HERE]
-## Section Five: Bonus
+## Section Five: Misc
 ### Only answer these questions if you've run out of other questions to answer!
 1. What is an enum, and when should we use them?
 	- [YOUR ANSWER HERE]
@@ -80,4 +80,8 @@ This assignment will serve as additional review for all the content we've covere
 5. What is type casting?
 	- [YOUR ANSWER HERE]
 6. What is SQL?
+	- [YOUR ANSWER HERE]
+7. Describe an API and its benefits.
+	- [YOUR ANSWER HERE]
+8. Name the 4 major API calls.
 	- [YOUR ANSWER HERE]
